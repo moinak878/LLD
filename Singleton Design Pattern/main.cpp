@@ -1,0 +1,1 @@
+// Singleton design pattern - A logger system
