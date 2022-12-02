@@ -14,3 +14,5 @@
 ### Examples :-
 - Java's String builder class which helps us to concatenate strings and builds it 
 - URL Builder (protocol , hostname , port , path params , query params)
+
+<img width="847" alt="Screenshot 2022-12-02 at 5 22 01 PM" src="https://user-images.githubusercontent.com/32922277/205286889-c5139243-a061-4f04-b079-2888594931b4.png">
