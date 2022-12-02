@@ -58,9 +58,6 @@ int main(){
 /**
 *   OUTPUT :-
 *   Logger is created!
-    Log] : hi! i am user 1Logger is created!
-    [Log] : hi! i am user 2
-* 
-*   since there is no lock condition , 2 loggers may be created in multithreading scenarios
-*   to avoid this use mutex lock. 
+*   [Log] : hi! i am user 1
+*   [Log] : hi! i am user 2
 */
